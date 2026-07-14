@@ -1,3 +1,5 @@
+package src;
+
 public class Shape {
     protected String color;
     protected boolean filled;

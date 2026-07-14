@@ -1,3 +1,5 @@
+package src;
+
 public class Triangle extends Shape {
     private double side1 = 0;
     private double side2 = 0;

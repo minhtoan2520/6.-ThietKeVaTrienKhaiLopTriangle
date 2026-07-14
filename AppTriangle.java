@@ -1,3 +1,5 @@
+import src.Triangle;
+
 public class AppTriangle {
     public static void main(String[] args) {
         Triangle t = new Triangle(2, 5, 4, "black", false);
